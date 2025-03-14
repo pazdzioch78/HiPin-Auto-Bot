@@ -23,9 +23,11 @@ cd HiPin-Auto-Bot
 npm install
 ```
 
-3. Add your HiPin authentication token:
+3. Add your HiPin authentication token.txt  :
 ```bash
-echo "YOUR_TOKEN_HERE" > token.txt
+eyJ.....1
+eyJ.....2
+eyJ.....3
 ```
 
 ## 🔧 Usage
