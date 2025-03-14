@@ -15,10 +15,10 @@ async function getToken() {
 
 let headers = {
     'accept': 'application/json',
-    'accept-language': 'en-US,en;q=0.9',
-    'lang': 'en-US',
+    'accept-language': 'pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7',
+    'lang': 'pl-PL',
     'content-type': 'application/json',
-    'sec-ch-ua': '"Chromium";v="133", "Microsoft Edge WebView2";v="133", "Not(A:Brand";v="99", "Microsoft Edge";v="133"',
+    'sec-ch-ua': '"Chromium";v="134", "Microsoft Edge WebView2";v="133", "Not(A:Brand";v="99", "Microsoft Edge";v="133"',
     'sec-ch-ua-mobile': '?0',
     'sec-ch-ua-platform': '"Windows"',
     'sec-fetch-dest': 'empty',
