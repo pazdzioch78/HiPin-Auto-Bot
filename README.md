@@ -4,13 +4,13 @@
 
 ## 📋 Features
 
-- Automatically checks in daily
-- Collects resources from Twitter, Google, and Telegram
-- Claims random tasks
-- Continuous operation with error handling
-- Detailed console logging
+- Automatyczne meldowanie się codziennie
+- Gromadzi zasoby z Twittera, Google i Telegrama
+- Roszczenia dotyczące losowych zadań
+- Ciągła praca z obsługą błędów
+- Szczegółowe rejestrowanie konsoli
 
-## 🚀 Installation
+## 🚀 Instalacja
 
 1. Clone the repository:
 ```bash
