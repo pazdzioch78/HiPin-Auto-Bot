@@ -1,1 +1,3 @@
-echo "YOUR_TOKEN_HERE" 
+eyJ.....1
+eyJ.....2
+eyJ.....3
