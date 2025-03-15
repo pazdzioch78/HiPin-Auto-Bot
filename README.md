@@ -72,8 +72,7 @@ MIT
 
 ## 👥 Contributors
 
-- [AirdropInsiders](https://github.com/airdropinsiders)
+- [AirdropInsiders]
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/airdropinsiders/HiPin-Auto-Bot.git)
