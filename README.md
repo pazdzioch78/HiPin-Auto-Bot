@@ -45,7 +45,7 @@ The bot will continuously:
 
 ## 🔑 How to Get Your Token
 
-1. Log in to [HiPin](https://t.me/hi_PIN_bot/app?startapp=p8ldr5d)
+1. Log in to [HiPin](https://t.me/hi_PIN_bot/app?startapp=pAje4kn)
 2. Open Developer Tools (F12 or Right-click > Inspect)
 3. Go to the Network tab
 4. Look for requests to the API (e.g., `/home`)
